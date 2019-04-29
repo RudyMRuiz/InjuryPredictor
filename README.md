@@ -2,7 +2,7 @@
 
 ## R You Ready for Neural Networks
 
-Our group created a neural network that analyzes data of car crashes and predicts the
+Developed a neural network that analyzes data of car crashes and predicts the
 injury severity of the passenger based on the attributes of the car crash. This was
 accomplished by using R along with the Keras package which is a high-level neural
 networks API.
